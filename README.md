@@ -1,4 +1,5 @@
 # Gymnasto
+the most complete Gym Store.
 # Project Details
 - 4 types of sign-in methods (Email, Google, Github, Facebook).
 - Responsive for desktop and mobile devices.
